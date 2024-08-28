@@ -1,0 +1,36 @@
+body {
+    background-color: rgb(241, 230, 167);
+}
+
+.menu {
+    position: absolute;
+    top: 2%;
+    left: 1%;
+    height: 10%;
+}
+
+.logo {
+    position: absolute;
+    left: 7%;
+    height: 50%;
+}
+
+.titulo {
+    position: absolute;
+    left: 40%;
+    height: 50%;
+}
+
+.casa1 {
+    position: absolute;
+    left: 7%;
+    top: 50%;
+    height: 40%;
+}
+
+.casa3 {
+    position: absolute;
+    right: 7%;
+    top: 50%;
+    height: 40%;
+}
